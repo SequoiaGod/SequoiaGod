@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   <a href="https://reddit.com/u/macropower">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  <a href="https://github.com/johnycoco1212?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/johnycoco1212?color=green&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
