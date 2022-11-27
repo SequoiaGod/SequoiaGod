@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
   </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  <a href="https://stackoverflow.com/users/17302943">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17302943?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://reddit.com/u/macropower">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
