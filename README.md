@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate backend software engineer from China currently working in UK</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  <a href="https://github.com/johnycoco1212/johnycoco1212">
+    <img src="https://komarev.com/ghpvc/?username=johnycoco1212" alt="page views" />
   </a>
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
