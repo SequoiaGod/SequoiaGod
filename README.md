@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jun Yan</h1>
 <h3 align="center">A passionate backend software engineer from China currently working in UK</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/johnycoco1212/johnycoco1212">
     <img src="https://komarev.com/ghpvc/?username=johnycoco1212" alt="page views" />
   </a>
