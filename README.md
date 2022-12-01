@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 
 </p align="center">
 
-<p align="center">
+
 - 📫 How to reach me **johnnycocoyan@hotmail.com**
 
 - ⚡ Fun fact **Gaming, Web3, crypto**
-</p>
+
 
 
 <h3 align="center">Connect with me:</h3>
