@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 
 
-</p>
+</p align="center">
 
 - 📫 How to reach me **johnnycocoyan@hotmail.com**
 
