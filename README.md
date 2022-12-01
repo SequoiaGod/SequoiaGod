@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/coco.johnny.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coco.johnny.90" height="30" width="40" /></a>
+  
+<a href="https://linkedin.com/in/jun-yan-1a32b2232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jun-yan-1a32b2232" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
