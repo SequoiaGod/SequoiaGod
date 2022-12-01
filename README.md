@@ -30,15 +30,11 @@ Here are some ideas to get you started:
   <a href="https://stackoverflow.com/users/17302943">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17302943?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  <a href="https://reddit.com/u/macropower">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
-  </a>
+
   <a href="https://github.com/johnycoco1212?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/johnycoco1212?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
+
 </p>
 
 - 📫 How to reach me **johnnycocoyan@hotmail.com**
