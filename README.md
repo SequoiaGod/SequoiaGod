@@ -32,6 +32,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/johnycoco1212?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/johnycoco1212?color=green&logo=github">
   </a>
+  
+  
+  
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=johnnycoco&theme=horizon&mode=weekly)](https://git.io/streak-stats)
 
 </p>
 
