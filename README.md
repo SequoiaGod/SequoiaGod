@@ -24,9 +24,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/johnycoco1212/johnycoco1212">
     <img src="https://komarev.com/ghpvc/?username=johnycoco1212" alt="page views" />
   </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
-  </a>
+
   <a href="https://stackoverflow.com/users/17302943">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17302943?color=orange&label=reputation&logo=stackoverflow">
   </a>
