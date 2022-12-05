@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- currently working in UK
+
 -->
 
 
-
 <h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">A passionate backend software engineer from China currently working in UK</h3>
+<h3 align="center">A passionate backend software engineer from China</h3>
 
 <p align="center">
   <a href="https://github.com/johnycoco1212/johnycoco1212">
