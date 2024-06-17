@@ -31,9 +31,6 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://github.com/johnycoco1212?tab=followers">
-    <img src="https://img.shields.io/github/followers/SequoiaGod?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/johnycoco1212?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/SequoiaGod?color=green&logo=github">
   </a>
   
