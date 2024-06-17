@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17302943?color=orange&label=reputation&logo=stackoverflow">
   </a>
 
- <a href="https://github.com/johnycoco1212?tab=followers">
+ <a href="[https://github.com/johnycoco1212?tab=followers](https://github.com/SequoiaGod?tab=followers)">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/johnycoco1212?color=green&logo=github">
   </a>
   
